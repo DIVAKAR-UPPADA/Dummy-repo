@@ -1,1 +1,2 @@
-Hii This is Divakar From Visakhapatnam
+welcome to Windows CMD 
+this Different when compared with Linux
